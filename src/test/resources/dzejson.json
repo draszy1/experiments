@@ -1,0 +1,9 @@
+{
+  "name":"dzejk",
+  "surname":"henderson",
+  "stuff": {
+    "gun":"ak47",
+    "bullet":"55mm"
+  },
+  "gunweight":5
+}
